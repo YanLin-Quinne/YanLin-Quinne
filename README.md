@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YanLin-Quinne, you can call me quinne.
 - 👀 I’m interested in Machine Learning (ML) and Natural Language Process (NLP).
 - 🌱 I’m currently learning data science matster of Durham Univeristy.
-- 💞️ I’m looking to collaborate on web crawling and data analysis.
+- 💞️ I am looking for opportunities in preparation for a phd and research assisstant.
 - 📫 How to reach me: quinne.lin191126@gmail.com
 
 <!---
