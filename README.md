@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YanLin-Quinne, you can call me quinne.
-- 👀 I’m interested in Machine Learning (ML) applied in Healthcare/ Economics.
-- 🌱 I’m a Master of Data Science Graduate from the University of Durham.
-- 💞️ I am looking for opportunities in a funded PhD position.
-- 📫 How to reach me: yan.quinne.lin@outlook.com 
+- Hi, This is @YanLin-Quinne lalaland.
+- I am a fully funded PhD student in Artificial Intelligence (starting October 2024) and a Master of Data Science graduate from Durham University (2022-2023). I have a BSc in Economics from China and have worked in the financial sector for almost three years.
+- My PhD research is about applying AI (especially the machine learning part) in interdisciplinary field research, actively exploring.
+- As a hobby, I have previously successfully built cricket prediction models, eco-poetry conversation bots, social media sentiment analysis, and other small projects.
+- My email is yan.quinne.lin@outlook.com. 
 
 <!---
 YanLin-Quinne/YanLin-Quinne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
