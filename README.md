@@ -6,24 +6,31 @@
   <i>"When I'm at my most helpless, I always draw strength from the code."</i> ✨  
 </p>  
 
-### 🎓 Educational Background & Achievements  
+### 🎓 About Me  
 
-- 🌟 **Incoming PhD Student in AI** (2025 Spring) with Full Scholarship  
-  - Received 6 full scholarships from Russell Group universities (QS Top 20-150)  
-- 📚 **MSc in Data Science** - Durham University (2022-2023)  
-  - Graduated with 74% overall score  
-  - Top performer in Machine Learning course  
-  - Completed 6 projects & Kaggle competitions  
-- 💼 **BSc in Finance & Investment** - Huaqiao University (2019)  
-  - Exchange student at National Taipei University  
-  - Department of Banking and Corporate Finance  
+I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health reasons). During the Fall 2024 PhD application season, I received 6 full scholarships for international students from Russell Group universities (QS ranking 20-150). My research combines machine learning models with financial mathematics theory, and I'm particularly passionate about interdisciplinary AI applications.  
+
+### 💼 Professional & Academic Background  
+
+- 🌟 **Incoming PhD in AI** (Spring 2025)  
+  - Full International Scholarship  
+  - Currently seeking Summer 2024 ML/AI Research Internship opportunities in UK/US  
+- 📚 **Master in Data Science** - Durham University (2022-2023)  
+  - Overall grade: 74%  
+  - Ranked #1 in Machine Learning course  
+  - Completed 6 projects & Kaggle competitions
+  - Student Representative & Programme Ambassador  
+- 💼 **Professional Experience** (2019-2022)  
+  - Nearly 3 years in banking and securities industry  
+- 🎓 **BSc in Finance & Investment** - Huaqiao University (2015-2019)  
+  - Exchange student at National Taipei University (Taiwan) 
+  - Department of Finance and Cooperative Management  
 
 ### 💡 Research Interests & Expertise  
 
 - 🤖 Machine Learning Models  
 - 📊 Financial Mathematics  
 - 🔄 Interdisciplinary AI Applications  
-- 👩‍💻 Women in STEM Advocacy  
 
 ### 🛠️ Technical Stack  
 
@@ -38,9 +45,14 @@
 
 ### 🌏 Languages  
 
-- 🇨🇳 Chinese (Native)  
-- 🇹🇼 Taiwanese/Hokkien (Native)  
-- 🇬🇧 English (Professional)  
+- 🌱 Grew up between mainland China (Fuzhou, Xiamen) and Taipei with my family  
+- 🗣️ Native in Chinese and Taiwanese/Hokkien (台语/闽南语)  
+- 🇬🇧 Professional English proficiency  
+- 👩‍💻 Passionate advocate for Women in STEM  
+  - Actively promoting gender diversity in technology  
+  - Supporting and mentoring women in tech communities  
+  - Committed to breaking barriers in STEM fields  
+
 
 ### 🤝 Let's Connect!  
 
@@ -60,7 +72,7 @@ I'm always excited to collaborate on interesting projects and ideas! Feel free t
 <div align="center">  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YanLin-Quinne.YanLin-Quinne" alt="visitors" />  
 </div>
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yan.quinne.lin@outlook.com)  
 
 ### 👀 Visitor Count  
 
