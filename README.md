@@ -1,10 +1,10 @@
 <h1 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9C53F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+YanLin-Quinne+%F0%9F%91%8B;A+PhD+Student+in+AI+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9C53F7&center=true&vCenter=true&random=false&width=535&lines=Hi+there!+I'm+YanLin-Quinne+%F0%9F%91%8B;A+PhD+Student+in+AI+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A4%96" alt="Typing SVG" />  
 </h1>  
 
 <p align="center">  
   <i>"When I'm at my most helpless, I always draw strength from the code."</i> ✨  
-</p>  
+</p>
 
 ### 🎓 About Me  
 
@@ -25,12 +25,6 @@ I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health 
 - 🎓 **BSc in Finance & Investment** - Huaqiao University (2015-2019)  
   - Exchange student at National Taipei University (Taiwan) 
   - Department of Finance and Cooperative Management  
-
-### 💡 Research Interests & Expertise  
-
-- 🤖 Machine Learning Models  
-- 📊 Financial Mathematics  
-- 🔄 Interdisciplinary AI Applications  
 
 ### 🛠️ Technical Stack  
 
@@ -54,7 +48,7 @@ I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health 
   - Committed to breaking barriers in STEM fields  
 
 
-### 🤝 Let's Connect!  
+### 🤝 Contact Me  
 
 I'm always excited to collaborate on interesting projects and ideas! Feel free to reach out:  
 
@@ -62,17 +56,16 @@ I'm always excited to collaborate on interesting projects and ideas! Feel free t
   <a href="mailto:yan.quinne.lin@outlook.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
   </a>  
-  <a href="Your-LinkedIn-URL">  
+  <a href="(https://www.linkedin.com/in/quinne-yan-lin-49b171264/)">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
   </a>  
 </p>  
 
-### 👀 Visitors  
 
-<div align="center">  
+### 👀 Visitors  
+<p align="center">  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YanLin-Quinne.YanLin-Quinne" alt="visitors" />  
-</div>
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yan.quinne.lin@outlook.com)  
+</p>
 
 ### 👀 Visitor Count  
 
