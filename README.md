@@ -20,7 +20,7 @@ I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health 
 
 - **Incoming PhD in AI** (Spring 2025)  
   - Full International Scholarship  
-  - Currently seeking Summer 2024 ML/AI Research Internship opportunities  
+  - Currently seeking Summer 2025 ML/AI Research Internship opportunities  
 - **MSc in Data Science** - Durham University (2022-2023)  
   - Overall grade: 74% | Ranked #1 in Machine Learning  
   - Projects: 6 ML projects & Kaggle competitions  
