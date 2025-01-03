@@ -3,7 +3,7 @@
 </h1>  
 
 <div align="center">  
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Coding Girl"/>  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl"/>  
 </div>  
 
 <p align="center">  
