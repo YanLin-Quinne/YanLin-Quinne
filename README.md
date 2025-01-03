@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9C53F7&center=true&vCenter=true&random=false&width=535&lines=Hi+there!+I'm+YanLin-Quinne+%F0%9F%91%8B;A+PhD+Student+in+AI+👩‍💻;Machine+Learning+Engineer+👩‍💻" alt="Typing SVG" />  
 </h1>  
 
-<p align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="200" alt="Coding Girl"/>  
-</p>  
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Coding Girl"/>  
+</div>  
 
 <p align="center">  
   <i>"When I'm at my most helpless, I always draw strength from the code."</i> ✨  
