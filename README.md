@@ -25,11 +25,7 @@ I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health 
   - Overall grade: 74% | Ranked #1 in Machine Learning  
   - Projects: 6 ML projects & Kaggle competitions  
   - Role: Student Representative & Programme Ambassador  
-- **Work Experience** (2019-2022)  
-  - Banking and securities industry (3 years)  
-- **BSc in Finance & Investment** - Huaqiao University (2015-2019)  
-  - Exchange: National Taipei University (Taiwan)  
-  - Focus: Finance and Cooperative Management  
+
 </div>  
 
 ### 🛠️ Technical Stack  
