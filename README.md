@@ -11,20 +11,15 @@
 </p>
 
 ### 🎓 About Me  
-<p align="font-size: 0.9em">  
-I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health reasons). During the Fall 2024 PhD application season, I received 6 full scholarships for international students from Russell Group universities (QS ranking 20-150). My research combines machine learning models with financial mathematics theory, and I'm particularly passionate about interdisciplinary AI applications.  
-</p>  
+I am a fully-funded PhD student in Artificial Intelligence (deferring to Spring 2025 due to health reasons). During the 2024 PhD application season, I was awarded six scholarships (International student fee rate, with UKRI stipend, see Honors & awards column) from top UK universities, all ranked within the QS top 20-150 globally and members of the prestigious Russell Group. Many thanks:)
 
-### 💼 Professional & Academic Background  
-<div style="font-size: 0.9em">  
+I received a Bachelor's degree in Economics from universities in mainland China and Taiwan (Because of my excellent undergraduate performance, I was selected to go to Taiwan for an exchange program in my junior year). 
 
-- **Incoming PhD in AI** (Spring 2025)  
-  - Full International Scholarship  
-  - Currently seeking Summer 2025 ML/AI Research Internship opportunities  
-- **MSc in Data Science** - Durham University (2022-2023)  
-  - Overall grade: 74% | Ranked #1 in Machine Learning  
-  - Projects: 6 ML projects & Kaggle competitions  
-  - Role: Student Representative & Programme Ambassador  
+After working for three years at one of China's top-four banks and a top-ten securities firm, I pursued a Master's degree in Data Science at Durham University, graduating with an average grade of 78%.
+
+Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
+
+https://www.ncl.ac.uk/computing/staff/profile/ylin64.html
 
 </div>  
 
@@ -38,17 +33,6 @@ I'm an incoming AI PhD student (Spring 2025, deferred from Fall 2024 for health 
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />  
 </p>  
 
-### 🌏 Background  
-<div style="font-size: 0.9em">  
-
-- 🌱 Grew up in China (Fuzhou, Xiamen) and Taipei  
-- 🗣️ Native: Chinese and Taiwanese/Hokkien (台语/闽南语)  
-- 🇬🇧 Professional English proficiency  
-- 👩‍💻 Women in STEM advocate  
-  - Promoting tech diversity  
-  - Mentoring women in tech  
-  - Breaking STEM barriers  
-</div>  
 
 ### 🤝 Connect With Me  
 <p align="center" style="font-size: 0.9em">  
