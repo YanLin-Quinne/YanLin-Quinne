@@ -33,6 +33,13 @@ https://www.ncl.ac.uk/computing/staff/profile/ylin64.html
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />  
 </p>  
 
+### Honors & Awards
+Durham University joint PhD Scholarship - China Scholarship Council
+Durham University Business School PhD Scholarship
+University of Edinburgh Business School PhD Scholarship
+Newcastle University 5-year PhD(in Computer Science) GTA Studentship
+Queen Mary University of London 5-year MRes+PhD Scholarship
+
 
 ### 🤝 Connect With Me  
 <p align="center" style="font-size: 0.9em">  
