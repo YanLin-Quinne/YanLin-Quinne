@@ -19,7 +19,6 @@ After working for three years at one of China's top-four banks and a top-ten sec
 
 Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
 
-https://www.ncl.ac.uk/computing/staff/profile/ylin64.html
 
 </div>  
 
