@@ -1,15 +1,3 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9C53F7&center=true&vCenter=true&random=false&width=535&lines=Hi+there!+I'm+YanLin-Quinne+%F0%9F%91%8B;A+PhD+Student+in+AI+👩‍💻;Machine+Learning+Engineer+👩‍💻" alt="Typing SVG" />  
-</h1>  
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl"/>  
-</div>  
-
-<p align="center">  
-  <i>"When I'm at my most helpless, I always draw strength from the code."</i> ✨  
-</p>
-
 ### 🎓 About Me  
 I am a fully-funded PhD student in Artificial Intelligence (deferring to Spring 2025 due to health reasons). During the 2024 PhD application season, I was awarded six scholarships (International student fee rate, with UKRI stipend, see Honors & awards column) from top UK universities, all ranked within the QS top 20-150 globally and members of the prestigious Russell Group. Many thanks:)
 
@@ -19,6 +7,7 @@ After working for three years at one of China's top-four banks and a top-ten sec
 
 Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
 
+https://www.ncl.ac.uk/computing/staff/profile/quinnelin.html
 
 </div>  
 
