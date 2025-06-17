@@ -1,9 +1,9 @@
 ### 🎓 About Me  
-I am a fully-funded PhD student in Artificial Intelligence (deferring to Spring 2025 due to health reasons). During the 2024 PhD application season, I was awarded six scholarships (International student fee rate, with UKRI stipend, see Honors & awards column) from top UK universities, all ranked within the QS top 20-150 globally and members of the prestigious Russell Group. Many thanks:)
+I am a fully-funded PhD student in Computer Science (deferring to Spring 2025 due to health reasons). During the 2024 PhD application season, I was awarded six scholarships (International student fee rate, with UKRI stipend, see Honors & awards column) from top UK universities, all ranked within the QS top 20-150 globally and members of the prestigious Russell Group. Many thanks:)
 
 I received a Bachelor's degree in Economics from universities in mainland China and Taiwan (Because of my excellent undergraduate performance, I was selected to go to Taiwan for an exchange program in my junior year). 
 
-After working for three years at one of China's top-four banks and a top-ten securities firm, I pursued a Master's degree in Data Science at Durham University, graduating with an average grade of 78%.
+After working for three years at one of China's top-four banks and a top-ten securities firm, I pursued a Master's degree in Data Science at Durham University, graduating with an average grade of 78%. I am a student member of IEEE.
 
 Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
 
