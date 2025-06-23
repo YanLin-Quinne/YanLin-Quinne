@@ -18,7 +18,7 @@ Durham University Business School PhD Scholarship
 
 University of Edinburgh Business School PhD Scholarship
 
-Newcastle University 5-year PhD(in Computer Science) GTA Studentship
+Newcastle University 5-year PhD(in Computer Science) GTA Studentship （staff contract & PhD student）
 
 Queen Mary University of London 5-year MRes+PhD Scholarship
 
