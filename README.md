@@ -12,15 +12,17 @@ https://www.ncl.ac.uk/computing/staff/profile/quinnelin.html
 </div>  
 
 ### Honors & Awards
-Durham University joint PhD Scholarship - China Scholarship Council
+Durham University joint PhD Scholarship - China Scholarship Council*
 
-Durham University Business School PhD Scholarship
+Durham University Business School PhD Scholarship*
 
-University of Edinburgh Business School PhD Scholarship
+University of Edinburgh Business School PhD Scholarship*
 
 Newcastle University 5-year PhD(in Computer Science) GTA Studentship （staff contract & PhD student）
 
-Queen Mary University of London 5-year MRes+PhD Scholarship
+Queen Mary University of London 5-year MRes+PhD Scholarship*
+
+*The studentship was voluntarily declined in favour of another offer.
 
 ### 🛠️ Technical Stack  
 <p align="center" style="font-size: 0.9em">  
