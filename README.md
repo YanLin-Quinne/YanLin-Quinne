@@ -15,7 +15,7 @@ Durham University Business School PhD Scholarship*
 
 University of Edinburgh Business School PhD Scholarship*
 
-Newcastle University 5-year PhD(in Computer Science) GTA Studentship （staff contract & PhD student）
+Newcastle University 5-year PhD(in Computer Science) GTA Studentship （Staff contract & PhD student, Staff Contract is 5-year and co-terminous with the PhD; all staff leave, sick-pay and professional-development entitlements apply from day one, covering full international tuition fees and a tax-free living stipend; equivalent in scope to a U.S. Teaching Assistantship (TA))
 
 Queen Mary University of London 5-year MRes+PhD Scholarship*
 
