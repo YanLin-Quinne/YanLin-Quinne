@@ -1,7 +1,7 @@
 ### 🎓 About Me  
 I am a fully-funded PhD student in Computer Science (deferring to Spring 2025 due to health reasons). During the 2024 PhD application season, I was awarded six scholarships (International student fee rate, with UKRI stipend, see Honors & awards column) from top UK universities, all ranked within the QS top 20-150 globally and members of the prestigious Russell Group. (After 20+ interviews, Many thanks:)
 
-I received a Bachelor's degree in Finance & Economics from universities in mainland China. After working for three years at one of China's top-four banks and a top-ten securities firm, I changed to pursue a Master's degree in Data Science at Durham University (average 78%). I am a student member of IEEE.
+I received a Bachelor's degree in Finance & Economics from universities in mainland China. After working for three years at one of China's top-four banks and a top-ten securities firm, I changed to pursue a Master's degree in Data Science at Durham University (average 78%). I am a student member of IEEE. More details in https://www.ncl.ac.uk/computing/staff/profile/quinnelin.html
 
 Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
 
