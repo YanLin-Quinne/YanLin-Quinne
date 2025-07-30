@@ -4,6 +4,7 @@ I am a fully-funded PhD student in Computer Science (deferring to Spring 2025 du
 I received a Bachelor's degree in Finance & Economics from universities in mainland China. After working for three years at one of China's top-four banks and a top-ten securities firm, I changed to pursue a Master's degree in Data Science at Durham University (average 78%). I am a student member of IEEE. More details in https://www.ncl.ac.uk/computing/staff/profile/quinnelin.html
 
 Potential Collaborations: If you are interested in these topics, feel free to reach out for more information!
+
 Interests：
 Reducing hallucination and improving factual grounding in LLMs
 Building LLM agents that can reason, plan, and act in open-ended environments
