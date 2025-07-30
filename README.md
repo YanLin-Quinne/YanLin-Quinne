@@ -3,7 +3,15 @@ I am a fully-funded PhD student in Computer Science (deferring to Spring 2025 du
 
 I received a Bachelor's degree in Finance & Economics from universities in mainland China. After working for three years at one of China's top-four banks and a top-ten securities firm, I changed to pursue a Master's degree in Data Science at Durham University (average 78%). I am a student member of IEEE. More details in https://www.ncl.ac.uk/computing/staff/profile/quinnelin.html
 
-Currently, I am focusing on Natural Language Processing, aiming to leverage my unique background in finance and data science to drive innovative research and applications in AI.
+Potential Collaborations: If you are interested in these topics, feel free to reach out for more information!
+Interests：
+Reducing hallucination and improving factual grounding in LLMs
+Building LLM agents that can reason, plan, and act in open-ended environments
+Prompting, fine-tuning, and evaluation of LLMs for real-world applications
+Integrating LLMs into interactive systems and tools (e.g., RAG, tool-use, multi-agent collaboration)
+Exploring responsible and explainable AI, especially in multilingual and cross-cultural settings
+
+I consider myself an LLM engineer and applied researcher, with a keen interest in aligning generative AI systems with human needs and real-world challenges.
 
 
 </div>  
