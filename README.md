@@ -6,11 +6,11 @@ I received a Bachelor's degree in Finance & Economics from universities in mainl
 Potential Collaborations: If you are interested in these topics, feel free to reach out for more information!
 
 Interests：
-Reducing hallucination and improving factual grounding in LLMs
-Building LLM agents that can reason, plan, and act in open-ended environments
-Prompting, fine-tuning, and evaluation of LLMs for real-world applications
-Integrating LLMs into interactive systems and tools (e.g., RAG, tool-use, multi-agent collaboration)
-Exploring responsible and explainable AI, especially in multilingual and cross-cultural settings
+1. Reducing hallucination and improving factual grounding in LLMs
+2. Building LLM agents that can reason, plan, and act in open-ended environments
+3. Prompting, fine-tuning, and evaluation of LLMs for real-world applications
+4. Integrating LLMs into interactive systems and tools (e.g., RAG, tool-use, multi-agent collaboration)
+5. Exploring responsible and explainable AI, especially in multilingual and cross-cultural settings
 
 I consider myself an LLM engineer and applied researcher, with a keen interest in aligning generative AI systems with human needs and real-world challenges.
 
