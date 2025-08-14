@@ -28,22 +28,3 @@ Queen Mary University of London 5-year MRes+PhD Scholarship*
 
 *The studentship was voluntarily declined in favour of another offer.
 
-### 🛠️ Technical Stack  
-<p align="center" style="font-size: 0.9em">  
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />  
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />  
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />  
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R" />  
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />  
-</p>  
-
-### 🤝 Connect With Me  
-<p align="center" style="font-size: 0.9em">  
-  <a href="mailto:yan.quinne.lin@outlook.com">  
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />  
-  </a>  
-  <a href="https://www.linkedin.com/in/quinne-lin-49b171264/">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />  
-  </a>  
-</p>  
